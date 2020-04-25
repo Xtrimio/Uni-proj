@@ -19,7 +19,7 @@ public class SongTrack
         System.out.println("Linked list : " + object); 
   
         
-        object.remove("B"); 
+        object.remove("Terack Title"); 
         object.remove(3); 
         object.removeFirst(); 
         object.removeLast(); 
@@ -43,4 +43,17 @@ public class SongTrack
         object.set(2, "Y"); 
         System.out.println("Linked list after change : " + object); 
     } 
-} 
+    public class Track ID {
+    	  int x; 
+
+    	  
+    	  public Track ID1() {
+    	    int x = 5;  
+    	  }
+
+    	  public void main(String[] args) {
+    		  Track ID myObj = new abstract Track ID(); 
+    	    System.out.println(myObj.x); 
+    	  }
+    	}
+}
