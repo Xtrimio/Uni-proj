@@ -43,16 +43,16 @@ public class SongTrack
         object.set(2, "Y"); 
         System.out.println("Linked list after change : " + object); 
     } 
-    public class Track ID {
+    public class TrackID {
     	  int x; 
 
     	  
-    	  public Track ID1() {
-    	    int x = 5;  
+    	  public TrackID() {
+    	    x = 5;  
     	  }
 
     	  public void main(String[] args) {
-    		  Track ID myObj = new abstract Track ID(); 
+    		  TrackID myObj = new TrackID(); 
     	    System.out.println(myObj.x); 
     	  }
     	}
